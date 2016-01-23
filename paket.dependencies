@@ -1,0 +1,4 @@
+source https://nuget.org/api/v2
+
+nuget FSharp.Core 4.0.0.1 redirects:force
+nuget Basis.Core
